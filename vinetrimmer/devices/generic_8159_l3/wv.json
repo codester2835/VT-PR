@@ -1,0 +1,9 @@
+{
+"name": "generic_8159_l3",
+"description": "android generic 8159 l3",
+"security_level": 3,
+"session_id_type": "android",
+"private_key_available": "True",
+"vmp": "False",
+"send_key_control_nonce": "True"
+}

@@ -1,0 +1,5 @@
+endpoints:
+  contentRoutes: 'https://default.any-any.prd.api.hbomax.com/cms/routes/%s/%s?include=default'
+  moviePages: 'https://default.any-any.prd.api.hbomax.com/content/videos/%s/activeVideoForShow?&include=edit'
+  playbackInfo: 'https://default.any-any.prd.api.hbomax.com/any/playback/v1/playbackInfo'
+  showPages: 'https://default.any-any.prd.api.hbomax.com/cms/collections/generic-show-page-rail-episodes-tabbed-content?include=default&pf[show.id]=%s&%s'

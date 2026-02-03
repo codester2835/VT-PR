@@ -1,0 +1,66 @@
+decrypter: 'packager'
+tag: 'JEFF'
+tag_sd: 'JEFF'
+
+arguments:
+  alang: 'orig' # Here you can specify audio languages you want seperated by commas
+  slang: 'all' # Here you can specify Subtitles languages you want seperated by commas
+
+aria2c:
+  file_allocation: 'prealloc'
+
+cdm:
+  default: 'hisense_smarttv_he55a7000euwts_sl3000'
+  Amazon: 'mtc_mtc_atv_atv_sl3000'
+  AppleTVPlus: 'mtc_mtc_atv_atv_sl3000'
+  Hotstar: 'xiaomi_mi_a1_15.0.0_60ceee88_8159_l3'
+  Jio: 'xiaomi_mi_a1_15.0.0_60ceee88_8159_l3'
+  DisneyPlus: 'mingcai_mingcai_tv_smart_tv_sl3000'
+  Sunnxt: 'xiaomi_mi_a1_15.0.0_60ceee88_8159_l3'
+  iTunes: 'mtc_mtc_atv_atv_sl3000'
+  MoviesAnywhere: 'qingdao_haier_electronics_coltd_led_tv_le42k5500_sl2000'
+  f1tv: 'xiaomi_mi_a1_15.0.0_60ceee88_8159_l3'
+  Globoplay: 'xiaomi_mi_a1_15.0.0_60ceee88_8159_l3'
+  Sonyliv: 'xiaomi_mi_a1_15.0.0_60ceee88_8159_l3'
+  ParamountPlus: 'mtc_mtc_atv_atv_sl3000'
+
+credentials:
+  iTunes: 'username:password'
+  Hotstar: 'username:password'
+  DisneyPlus: 'username:password'
+  ParamountPlus: 'username:password'
+  Sunnxt: '9860835343:Welcome@123'
+  RakutenTV: 'vhnoob25@gmail.com:nn00bb25'
+
+directories:
+  temp: ''
+
+headers:
+  User-Agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
+  
+key_vaults:
+  - type: 'local'
+    name: 'Local'
+    path: './vinetrimmer/key_store.db'
+
+output_template:
+  movies: '{title}.{year}.{quality}.{source}.WEB-DL.{audio}.{video}-{tag}'
+  series: '{title}.{season_episode}.{episode_name}.{quality}.{source}.WEB-DL.{audio}.{video}-{tag}'
+  use_last_audio: false
+
+profiles:
+  default: 'default'
+  Viki: false
+ 
+# Default proxy service to use if no specific proxy is set for a service. Empty or null to use no proxy.
+default_proxy_service: '' # Options: 'surfshark', 'nordvpn' 'null'
+
+proxies: {} 
+
+nordvpn:
+    username: ''
+    password: ''
+
+surfshark:
+    username: ''
+    password: ''

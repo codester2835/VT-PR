@@ -1,0 +1,12 @@
+endpoints:
+  content: 'https://um.viuapi.io/drm/v1/content/{videoid}'
+  gateway: 'https://api-gateway-global.viu.com/api/mobile'
+  license: 'https://um.viuapi.io/drm/v1/license/{id}'
+  load: 'https://viu.com/ott/web/api/{type}/load'
+  login: 'https://api-gateway-global.viu.com/api/auth/login'
+  ott: 'https://www.viu.com/ott/{region}/index.php'
+  playback: 'https://api-gateway-global.viu.com/api/playback/distribute'
+  play_info: 'http://www.viu.com/ott/{country_code}/{lang_code}/vod/{item_id}/'
+  token: 'https://um.viuapi.io/user/identity'
+  token2: 'https://api-gateway-global.viu.com/api/auth/token'
+  validate: 'https://api-gateway-global.viu.com/api/account/validate'

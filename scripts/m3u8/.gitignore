@@ -1,0 +1,17 @@
+*.pyc
+*.egg-info
+tests/server.stdout
+dist/
+build/
+bin/
+include/
+lib/
+lib64/
+local/
+.coverage
+.cache
+.python-version
+.idea/
+.vscode/
+venv/
+pyvenv.cfg

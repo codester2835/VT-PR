@@ -1,0 +1,240 @@
+certificate: |
+   CAUSwwUKvQIIAxIQ5US6QAvBDzfTtjb4tU/7QxiH8c+TBSKOAjCCAQoCggEBAObzvlu2hZRsapAPx4Aa4GUZj4/GjxgXUtBH4THSkM40x63wQeyVxlEEo
+   1D/T1FkVM/S+tiKbJiIGaT0Yb5LTAHcJEhODB40TXlwPfcxBjJLfOkF3jP6wIlqbb6OPVkDi6KMTZ3EYL6BEFGfD1ag/LDsPxG6EZIn3k4S3ODcej6YSz
+   G4TnGD0szj5m6uj/2azPZsWAlSNBRUejmP6Tiota7g5u6AWZz0MsgCiEvnxRHmTRee+LO6U4dswzF3Odr2XBPD/hIAtp0RX8JlcGazBS0GABMMo2qNfCi
+   SiGdyl2xZJq4fq99LoVfCLNChkn1N2NIYLrStQHa35pgObvhwi7ECAwEAAToQdGVzdC5uZXRmbGl4LmNvbRKAA4TTLzJbDZaKfozb9vDv5qpW5A/DNL9g
+   bnJJi/AIZB3QOW2veGmKT3xaKNQ4NSvo/EyfVlhc4ujd4QPrFgYztGLNrxeyRF0J8XzGOPsvv9Mc9uLHKfiZQuy21KZYWF7HNedJ4qpAe6gqZ6uq7Se7f
+   2JbelzENX8rsTpppKvkgPRIKLspFwv0EJQLPWD1zjew2PjoGEwJYlKbSbHVcUNygplaGmPkUCBThDh7p/5Lx5ff2d/oPpIlFvhqntmfOfumt4i+ZL3fFa
+   ObvkjpQFVAajqmfipY0KAtiUYYJAJSbm2DnrqP7+DmO9hmRMm9uJkXC2MxbmeNtJHAHdbgKsqjLHDiqwk1JplFMoC9KNMp2pUNdX9TkcrtJoEDqIn3zX9
+   p+itdt3a9mVFc7/ZL4xpraYdQvOwP5LmXj9galK3s+eQJ7bkX6cCi+2X+iBmCMx4R0XJ3/1gxiM5LiStibCnfInub1nNgJDojxFA3jH/IuUcblEf/5Y0s
+   1SzokBnR8V0KbA==
+
+payload_challenge: "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c29hcDpFbnZlbG9wZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczpzb2FwPSJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy9zb2FwL2VudmVsb3BlLyI+PHNvYXA6Qm9keT48QWNxdWlyZUxpY2Vuc2UgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRFJNLzIwMDcvMDMvcHJvdG9jb2xzIj48Y2hhbGxlbmdlPjxDaGFsbGVuZ2UgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRFJNLzIwMDcvMDMvcHJvdG9jb2xzL21lc3NhZ2VzIj48TEEgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRFJNLzIwMDcvMDMvcHJvdG9jb2xzIiBJZD0iU2lnbmVkRGF0YSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PFZlcnNpb24+NDwvVmVyc2lvbj48Q29udGVudEhlYWRlcj48V1JNSEVBREVSIHhtbG5zPSJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL0RSTS8yMDA3LzAzL1BsYXlSZWFkeUhlYWRlciIgdmVyc2lvbj0iNC4yLjAuMCI+PERBVEE+PFBST1RFQ1RJTkZPPjxLSURTPjxLSUQgQUxHSUQ9IkFFU0NUUiIgVkFMVUU9IkFBQUFBTVlFeElFQUFBQUFBQUFBQUE9PSI+PC9LSUQ+PC9LSURTPjwvUFJPVEVDVElORk8+PExBX1VSTD5odHRwOi8vY2FwcHJzdnIwNi9zaWx2ZXJsaWdodDUvcmlnaHRzbWFuYWdlci5hc214PC9MQV9VUkw+PExVSV9VUkw+aHR0cDovL2NhcHByc3ZyMDYvc2lsdmVybGlnaHQ1L3JpZ2h0c21hbmFnZXIuYXNteDwvTFVJX1VSTD48REVDUllQVE9SU0VUVVA+T05ERU1BTkQ8L0RFQ1JZUFRPUlNFVFVQPjwvREFUQT48L1dSTUhFQURFUj48L0NvbnRlbnRIZWFkZXI+PENMSUVOVElORk8+PENMSUVOVFZFUlNJT04+My4wLjAuNDAxOTwvQ0xJRU5UVkVSU0lPTj48L0NMSUVOVElORk8+PFJldm9jYXRpb25MaXN0cz48UmV2TGlzdEluZm8+PExpc3RJRD5pb3lkVGxLMnAwV1hrV2tscHJSNUh3PT08L0xpc3RJRD48VmVyc2lvbj4xNDwvVmVyc2lvbj48L1Jldkxpc3RJbmZvPjxSZXZMaXN0SW5mbz48TGlzdElEPkVmL1JVb2pUM1U2Q3QyanFUQ0NoYkE9PTwvTGlzdElEPjxWZXJzaW9uPjc2PC9WZXJzaW9uPjwvUmV2TGlzdEluZm8+PC9SZXZvY2F0aW9uTGlzdHM+PExpY2Vuc2VOb25jZT5vdm41bml6RlFoYlZUcTFJeTVZTmNnPT08L0xpY2Vuc2VOb25jZT48Q2xpZW50VGltZT4xNzIzNzkwMDA5PC9DbGllbnRUaW1lPjxFbmNyeXB0ZWREYXRhIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGVuYyMiIFR5cGU9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMDQveG1sZW5jI0VsZW1lbnQiPjxFbmNyeXB0aW9uTWV0aG9kIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS8wNC94bWxlbmMjYWVzMTI4LWNiYyI+PC9FbmNyeXB0aW9uTWV0aG9kPjxLZXlJbmZvIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48RW5jcnlwdGVkS2V5IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGVuYyMiPjxFbmNyeXB0aW9uTWV0aG9kIEFsZ29yaXRobT0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS9EUk0vMjAwNy8wMy9wcm90b2NvbHMjZWNjMjU2Ij48L0VuY3J5cHRpb25NZXRob2Q+PEtleUluZm8geG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvMDkveG1sZHNpZyMiPjxLZXlOYW1lPldNUk1TZXJ2ZXI8L0tleU5hbWU+PC9LZXlJbmZvPjxDaXBoZXJEYXRhPjxDaXBoZXJWYWx1ZT5TN3ZQRnRHVFRPKzBFRng2TlFsdkpjQnpyYjRwUkdXUDNYd2dNRGNVU092engwaTMxNkkvcyt3enNwTFB3eXB6QkFzemsweHI4dkh6akFPSms5OEJOWnJlV3k1QUNPUThnQzFlZWNCV3FCbzlwRkFGVTFjc0xsaGVmcmhmanFCdmhHRUt1RVU3ak90TmpxZ3Y4cFQ5WEc2V1RGNWhHeEdvTStKTGhGRndtSWc9PC9DaXBoZXJWYWx1ZT48L0NpcGhlckRhdGE+PC9FbmNyeXB0ZWRLZXk+PC9LZXlJbmZvPjxDaXBoZXJEYXRhPjxDaXBoZXJWYWx1ZT5TdU00Um53c24vSzQreldrWGlrRHpBZDQzMjlrSSs2dXVoUVRucE9HUytWdHFIU2RBc0JlNjdXWFRPRVVOekwycHNLcW54a1gvYzF3bkR0eXVjRUxGUDY5RFlnYzBJYkFySDFSTUhtYUIxaFJOaTJWdENBMFJHSTlISDA3L0ZRNS9DQkRRN1VlWlowdGZ1Rmx5a2JpQ3pWYXJqMHp2UDAyeHZOTTNXUWczYi9Hc2M3bzF1ZDk0Qjh0clZNNERDbHBUMHh3Ti9xY1ErMTJkMTVuQVI0WThwM3pXcWZObHN2Yk1FdHRJZ3Fmb2RqdWI1Qzlvc2FNRFNqaVNwSURKYTJic2cyb2l5bCtveDh1VlhQRGpNRGRZMWNYcHpXaUVYdnkxbkM5UjNyQ0RQZkx6SE95ZDdTNnQxZTBUb0hiaTdXSkZvamN4RC9mKzg2NzVZNnk0ZW4xbG1PdkdZczVreVlsR2lPYWdyVEpoTmtHTjZwSUc4cmwwMmlET0lGTVRWSlBXWm1GNWdiRi8zaDFZRlBQdUdvUjl4dk8xN2ovcG9iUUp3R3E4YnV0UmtZUXc4UUJ6SFNWc1BHUmN5ZmdoT3RlbjBQMTd1NmQ2Q3dJQmdjNENhRFZacWV0WWg3bGxacHNXd0xhYStKa1Q5U3RPMElGaUo3L1dFK2pCcXA3aEU1YUF4NDVxMWoxaVdKVEM3RjRLUzI1WW81OXYyOTZXWHZuajFEYnV3UkR6T0RxSG1xaFV3aXhKeWNDcXMzN0NNNGhQV0ZXZk1HRklNMVdJTUtUR0prUkJ6eXJ2SEdibE5lZTJDSzgzN1pKS3Z1NThzbEpMUmtVMEcyZ3M2ZW83NTc2MndHNnVxWkt6V28wYS80c2pvVEd5a1ErY2c4bExEU3N0amJkU3V4ZzFEbEg5OFM2ajR0M0RhY3ZwSWUweEJiN3R5dHluWG9MR0NPdnh5alhUK2U3bmFTZWZmcVNnek9OOU1HOW1kcm85aHdQYmlWY3FRNmM0eUVPOFhVTGtSRTROTGZUM2pKMHA0aExyQWQvUExSUThLdERGaExOWVR0aUN5TVJJZzdJU01iQUkzZ2xkZmJGOFI3U3daaGRsTVJjRXBmZk1iTms3NXI3dWVDQ3g4VXE4KzZVYm1QaTlQRGk3WVJuUXQ3SkpHME1GTEVKOGp6NzlDeHhvcW85M3Q0cm9WQk52bnFXSXMydDBGMjZ5b1NwWW9kdmdPSi9QdmhDZi9wL0FwdjUxdGx6Z2I5d2NmanhPQVZGSTVMM1ExZm1LVkFDSGtNRUhPK1E5SjUzTkN0Uzg1c0FiTHRYVUFQMlhTUVk3YTlZbmFzblBOQUtMSld0TU0yRURXdldSUFRQR0J1ekRyR1ZhK3MyWU5HMUpMR1NCTlk1TU95akpZVUZLdFBJZXkrc04wQkJOU0lNMUxEOW5rZW1xVmI5ZTRVNHVlcDhuOFNoeDRUNE5rNjJ5ZUJhdjlEeHMwSUVOZGV5NFFDekhmODFRNUV0WWJoS09sTjZ6aU4vQXplQWNXT3JFSDdMYjgzZUROZGZrUVRicnQ5dlk0aEVIVlQ0UG5Hb2J4emhnemhDeWYzL05HQ294UjRvQ2lGVEY4UnY3dHBncmxjeXNURmVnTUI3MVBveU0xaG5nZmFpVGxmV21uRG5OVm5ObDVwaW1jTTVRc3BSci9nRi9RU3NuN1VjbXFINmRrTFdRS1p1dmdDZDdlRmRERTNJelN6MEE2eEJLWjV1N0lkck1UL2tuR2xJSlZST1c3VUZnbnptbDNYQ1ljbGhuM0tRUU96NldPV215UVFteFFQQXpaeXlJeHpLYVAxdkdzcUkwRFFmN2ZwOEtnazV2SHdLQUdqTURBb25ORk05RHBKb2lUbUVDWFdWeWJkM3d5RzNmVHM5M3hsNGpJK2cvR2Z6ZG4vNUZJK2ZjQzFlS09LS093aHB1eFV4OHFVZGxWS0FqUDZta2ttUzFZZ2IyMXZiRDhQTUlBcnBWbmtCRWRIQlVvOCt3TVdjMXZOcUNRa3pkUm9QNENPWElIRU5ESlQ2WjQ4UDZOY2xIc3kzRG5jczE0RWZWb0FkcjFvZVUvWHE1dDRCR25rUFk1Q2hQZjFTQ3RBUnZhZ0Zic0p0Mzg5MHZJWFBxT1VGL1hmSldQOW1QV0lsRHlhNFR4WGNnRkt2RUlIV0JPQkhpZG9DaFMvNm8vSWpDMHdaNTNZK3RheG96cTBLVlFBaVJPZVR5d3phcUlzMXZvc1VsY2xkM1o2TFJzMFk3N0dGdlY3ZVVVL0V5L0VMUnhtanM0S0p5QzJEMnFheFMzT20wVGgyc3djSmpxL1dtaHFSV1FsYXVnNmowRjJIWlFmTVlqNEFpTHZNQWR0c2dva2Q5Z25scHZsU1k3OHNicmk2eEtlcXhicDVWSytDNExLSUJxNSs0RDFMV2ttbm45OTMzcnRKVWlydGZLN2JtM09SUFh6VjhybEg2aVZNY0h2b2czOTJkd3lmN01haWJHbmhuNmV4QUFjR01CQ1hMSG1Db2w3TFEzM0VJUGRvdGpvRnNmbzEwemNjRHJwY1UxbEc3VUtNUDlqN09YamxwVDB4dEk4Z3FzdEV3WWh5akQ4cmwySC85VVZGSFVUc25zZFRxVHhGcmNTek1yRVZUVDhRVXB2bmwwL0tCdGlKNFRRSmtJU3F4ZUQzbGdQZUpIaTRKWkd5NVFlWmtIcmpjbzNoUnl4aVo0NnZMaTZHWXRXZlF3c0NmbXZxZE45eEFObm1CNC9pRVVjYlBvVHVrdnFwRkxDRFIwYzVCbngzQ0pJTWU1Z2hJVndxZ3F6VjlnSVlJaFMvZk0rM0RsTDFOY1hRWkhtVUFZRWJJNThsSDh2dmh4S0dJZlo0Zm9ZSEM3UWhmeGxyM3lJYjJWL1BzOXNPSHY3VE90bXY1Q3pBWVNiSHJxMWQwNldTcXBpQzI5R2xTUnJZQVNudDNHcGNNZGxvNzlLTDVyZGJFcEdGeHpFdTNjVGZmSkhzN2tVOEp4RlFMeVpjeWp1dmF3NHpFaUE5VWVoK3d1UGpXTmNSYUxyLzh1aUtBNzViaEFoczBLa25nWmYzQTJkdTdJaHk0UCtkT2xjaWsxRE5xTy9UQ0drZWxJeDhVZW8xK1hCQWoveTNCR1VCUTArNm1XMm5BMlBkNW8xdVIrdGFBYlZRd2J0ZEhhNnhjb0pvY1NmUkkrQ2VmcVhxcklNODJUUHFLUElxQUJDTkNjWlZjU0FtYUx5dWV6bEhXSk9iclB4d3VpeUROZ3BOWkVDZnQzQ0V1VzVMcVE0S3gyek9XVU0zOW53blk2MXp3QlM5MXBMUmJ4aHo0ZHNUSHdvOFU4YXlpNDlmWU9lYXBwUmlUODNPLzFjcUdFVTV4cUtvWWM4WTZWWmhHVk11QktENWxpTndGeWFBeEpRbWk3cnNtUVNqcXRIWG5BTUtJemFydWVxSlNMMDVsYnRoWFNualcwUzBzOWovaXJXQ1ZTYWpqS1lBTDY4ZjlEK2dtYmU5S1pBNHd6aHBRRmpLdkFHNnd6R2tCTGR2NTdSMGk0MFFYTkVGVlUzelI0alhaT2JXUHlFa29DQVF4Ukxabnl5TTI1V21LMTM4VWF6R1hqa3pFZVZ1WGc0QXRpUVJNb3AzUWdRb3Z3bGpTNldsbTZuQlVRSU1KZjlEQ01Pd1JTTVF6RFZuZVRldERvTlVnQmwrZkdkR3Y4NFFLYTR6N1FuUXQ0bmVudVpWeEg0b2U1Y0pJSE5xL0d3WFJqNU5FU0lhSXVWM25OOTVBUCswMkNtblZXd0ZlM3VYczd2YlB0aEpEenBkZjZJTFQ1Mmg1YjZxQ2tLYU10eCt0M0poYkxDSkR3QS9CL3JYdDYvaE04ajhuazNlRjF4bjJ4OWtNQnNIYVN3cXZvY2dvdjUyaUhUSVZjT1ErVFNRVlU0VHU3WC83RmxxemxPSEdYMXRxQ1dhdUFnUkE0Q2NFZ3FzdllVUktCdFdackpyWDlHbWVKMnBBV3N6YnhxYWd0MzhoQ3dyaUdIcXpwSzJ1QzR1b21xeHd4QmFFbFhSQmErU3B3RGd6elI1Z0NUQjVweGZNdnl0a2N2UFpodi8yZkdXOXhHVnZXV21sRXBMblhrMnRnWHNQNTNLcWxnQlNtOU5rRVdmNHRiOUJxbmZQLzlFZ1JocUlvQXFpTW1nUnExMGdXM3B4a2RTTFFxUEFCVFJxU0tPdDFuVURtaUlPSi9rMGpDTzU4WUlueHpNUmc3dFNOckV4RVN4QjRsaXNvR1V2Y29vMnJ6eGFwZTdWQW1abzFDQkNlTkpQRGIxQkIrUmc5OXN3SWlyNjVsTi9CK0JiWUgvVEg5b2FTcWJWV3ZiOHV5ZkovSzRUN05DTWhiaWNDaWdsZFZVbUptSDFRaW1Qckt5MXkrZk9XT2RBNmdNRDIyUzYxVlVaT3cycDQ1UUFiRWQ3Uk9JMHd4TmNUOUt6MGxHUTBqbW9rK0JZVkRiZEJIYVlYVTRjTEFBSXdSTzwvQ2lwaGVyVmFsdWU+PC9DaXBoZXJEYXRhPjwvRW5jcnlwdGVkRGF0YT48L0xBPjxTaWduYXR1cmUgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvMDkveG1sZHNpZyMiPjxTaWduZWRJbmZvIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48Q2Fub25pY2FsaXphdGlvbk1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLXhtbC1jMTRuLTIwMDEwMzE1Ij48L0Nhbm9uaWNhbGl6YXRpb25NZXRob2Q+PFNpZ25hdHVyZU1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRFJNLzIwMDcvMDMvcHJvdG9jb2xzI2VjZHNhLXNoYTI1NiI+PC9TaWduYXR1cmVNZXRob2Q+PFJlZmVyZW5jZSBVUkk9IiNTaWduZWREYXRhIj48RGlnZXN0TWV0aG9kIEFsZ29yaXRobT0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS9EUk0vMjAwNy8wMy9wcm90b2NvbHMjc2hhMjU2Ij48L0RpZ2VzdE1ldGhvZD48RGlnZXN0VmFsdWU+VmpFakxmZWhFcElwVUNFd2xGbFpSZDk1TGVvZk8xYmJMZithZjYySXVqdz08L0RpZ2VzdFZhbHVlPjwvUmVmZXJlbmNlPjwvU2lnbmVkSW5mbz48U2lnbmF0dXJlVmFsdWU+Z055ZW5vZGJPWmFveEtWaWZidVo2SVFuQ21nNVUxcm16Y1p3ZERnMDEvMGxGUVZKNU1rZHlLckg2Wm92OHduU2lSU1ZBWEpUbUs5dTBEb3JYdEFCYUE9PTwvU2lnbmF0dXJlVmFsdWU+PEtleUluZm8geG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvMDkveG1sZHNpZyMiPjxLZXlWYWx1ZT48RUNDS2V5VmFsdWU+PFB1YmxpY0tleT5HT1lWbm41K0pFNVVyUTZmY21DYks3RUdBN212aWRKdDdhYUNZamhucVozTlpqVTRaZjQ0akszczM3b1JEUDJKcEp5R3c1OU9seDJZZk1MMzJma3h4Zz09PC9QdWJsaWNLZXk+PC9FQ0NLZXlWYWx1ZT48L0tleVZhbHVlPjwvS2V5SW5mbz48L1NpZ25hdHVyZT48L0NoYWxsZW5nZT48L2NoYWxsZW5nZT48L0FjcXVpcmVMaWNlbnNlPjwvc29hcDpCb2R5Pjwvc29hcDpFbnZlbG9wZT4="
+
+
+esn_map:
+  # key map of CDM WVD `SystemID = 'ESN you want to use for that CDM WVD'`
+  54321: 'NFCDIE-03-L3GCH5UJ17J0MT4QF1Y9NFV016J8YM'
+endpoints:
+  website: 'https://www.netflix.com/nq/website/memberapi/{build_id}/pathEvaluator'
+  manifest: 'https://www.netflix.com/nq/msl_v1/cadmium/pbo_manifests/^1.0.0/router'
+  licence: 'https://www.netflix.com/nq/msl_v1/cadmium/pbo_licenses/^1.0.0/router'
+  metadata: 'https://www.netflix.com/nq/website/memberapi/release/metadata'
+  # https://www.netflix.com/msl/playapi/cadmium/logblob/1?reqAttempt=1&reqPriority=0&reqName=logblob
+  # possibly newer api? seems to work fine on handshaking, rest untested
+
+configuration:
+  drm_system: 'playready'  # chrome and android: widevine, edge: playready
+  drm_version: 30  # widevine: 25, playready: 30
+  supported_hdcp_versions: ['2.2']  # 720p-max: 1.4, chrome: empty, 4k: 2.2
+  is_hdcp_engaged: true  # chrome: false
+
+profiles:
+  video:
+    H264:
+      BPL:
+        - 'playready-h264bpl30-dash'
+
+      MPL:
+        - 'playready-h264mpl30-dash'
+        - 'playready-h264mpl31-dash'
+        - 'playready-h264mpl40-dash'
+
+      HPL:
+        - 'playready-h264hpl30-dash'
+        - 'playready-h264hpl31-dash'
+        - 'playready-h264hpl40-dash'
+        
+      QC:
+        - h264mpl30-dash-playready-prk-qc
+        - h264mpl31-dash-playready-prk-qc
+        - h264mpl40-dash-playready-prk-qc
+    H265:
+      SDR:
+         - 'hevc-main10-L30-dash-cenc'
+         - 'hevc-main10-L30-dash-cenc-prk'
+         - 'hevc-main10-L30-dash-cenc-prk-do'
+         - 'hevc-main10-L31-dash-cenc'
+         - 'hevc-main10-L31-dash-cenc-prk'
+         - 'hevc-main10-L31-dash-cenc-prk-do'
+         - 'hevc-main10-L40-dash-cenc'
+         - 'hevc-main10-L40-dash-cenc-prk'
+         - 'hevc-main10-L40-dash-cenc-prk-do'
+         - 'hevc-main10-L50-dash-cenc'
+         - 'hevc-main10-L41-dash-cenc-prk'
+         - 'hevc-main10-L41-dash-cenc-prk-do'
+         - 'hevc-main10-L50-dash-cenc'
+         - 'hevc-main10-L50-dash-cenc-prk'
+         - 'hevc-main10-L50-dash-cenc-prk-do'
+         - 'hevc-main10-L51-dash-cenc'
+         - 'hevc-main10-L51-dash-cenc-prk'
+         - 'hevc-main10-L51-dash-cenc-prk-do'
+         
+      SDR_DO:
+
+         - 'hevc-main10-L30-dash-cenc-prk-do'
+
+         - 'hevc-main10-L31-dash-cenc-prk-do'
+
+         - 'hevc-main10-L40-dash-cenc-prk-do'
+
+         - 'hevc-main10-L41-dash-cenc-prk-do'
+
+         - 'hevc-main10-L50-dash-cenc-prk-do'
+
+         - 'hevc-main10-L51-dash-cenc-prk-do'
+         
+      SDR_CENC:
+         - 'hevc-main10-L30-dash-cenc'
+
+         - 'hevc-main10-L31-dash-cenc'
+  
+         - 'hevc-main10-L40-dash-cenc'
+
+         - 'hevc-main10-L50-dash-cenc'
+
+         - 'hevc-main10-L50-dash-cenc'
+
+         - 'hevc-main10-L51-dash-cenc'
+
+
+      HDR10:
+         - 'hevc-hdr-main10-L30-dash-cenc'
+         - 'hevc-hdr-main10-L30-dash-cenc-prk'
+         - 'hevc-hdr-main10-L30-dash-cenc-prk-do'
+         - 'hevc-hdr-main10-L31-dash-cenc'
+         - 'hevc-hdr-main10-L31-dash-cenc-prk'
+         - 'hevc-hdr-main10-L31-dash-cenc-prk-do'
+         - 'hevc-hdr-main10-L40-dash-cenc'
+         - 'hevc-hdr-main10-L40-dash-cenc-prk'
+         - 'hevc-hdr-main10-L40-dash-cenc-prk-do'
+         - 'hevc-hdr-main10-L41-dash-cenc'
+         - 'hevc-hdr-main10-L41-dash-cenc-prk'
+         - 'hevc-hdr-main10-L41-dash-cenc-prk-do'
+         - 'hevc-hdr-main10-L50-dash-cenc'
+         - 'hevc-hdr-main10-L50-dash-cenc-prk'
+         - 'hevc-hdr-main10-L50-dash-cenc-prk-do'
+         - 'hevc-hdr-main10-L51-dash-cenc'
+         - 'hevc-hdr-main10-L51-dash-cenc-prk'
+         - 'hevc-hdr-main10-L51-dash-cenc-prk-do' 
+
+      HDR10_CENC:
+         - 'hevc-hdr-main10-L30-dash-cenc'
+
+         - 'hevc-hdr-main10-L31-dash-cenc'
+ 
+         - 'hevc-hdr-main10-L40-dash-cenc'
+    
+         - 'hevc-hdr-main10-L41-dash-cenc'
+      
+         - 'hevc-hdr-main10-L50-dash-cenc'
+
+         - 'hevc-hdr-main10-L51-dash-cenc'
+
+      HDR10_DO:
+
+         - 'hevc-hdr-main10-L30-dash-cenc-prk-do'
+
+         - 'hevc-hdr-main10-L31-dash-cenc-prk-do'
+
+         - 'hevc-hdr-main10-L40-dash-cenc-prk-do'
+
+         - 'hevc-hdr-main10-L41-dash-cenc-prk-do'
+  
+         - 'hevc-hdr-main10-L50-dash-cenc-prk-do'
+
+         - 'hevc-hdr-main10-L51-dash-cenc-prk-do'          
+
+      DV:
+         - 'hevc-dv5-main10-L30-dash-cenc'
+         - 'hevc-dv5-main10-L30-dash-cenc-prk'
+         - 'hevc-dv5-main10-L30-dash-cenc-prk-do'
+         - 'hevc-dv5-main10-L31-dash-cenc'
+         - 'hevc-dv5-main10-L31-dash-cenc-prk'
+         - 'hevc-dv5-main10-L31-dash-cenc-prk-do'
+         - 'hevc-dv5-main10-L40-dash-cenc'
+         - 'hevc-dv5-main10-L40-dash-cenc-prk'
+         - 'hevc-dv5-main10-L40-dash-cenc-prk-do'
+         - 'hevc-dv5-main10-L41-dash-cenc'
+         - 'hevc-dv5-main10-L41-dash-cenc-prk'
+         - 'hevc-dv5-main10-L41-dash-cenc-prk-do'
+         - 'hevc-dv5-main10-L50-dash-cenc'
+         - 'hevc-dv5-main10-L50-dash-cenc-prk'
+         - 'hevc-dv5-main10-L50-dash-cenc-prk-do'
+         - 'hevc-dv5-main10-L51-dash-cenc'
+         - 'hevc-dv5-main10-L51-dash-cenc-prk'
+         - 'hevc-dv5-main10-L51-dash-cenc-prk-do'
+
+    AV1:
+      - 'av1-main-L30-dash-cbcs'
+      - 'av1-main-L30-dash-cbcs-prk'
+      - 'av1-main-L31-dash-cbcs'
+      - 'av1-main-L31-dash-cbcs-prk'
+      - 'av1-main-L40-dash-cbcs'
+      - 'av1-main-L40-dash-cbcs-prk'
+      - 'av1-main-L41-dash-cbcs'
+      - 'av1-main-L41-dash-cbcs-prk'
+      - 'av1-main-L50-dash-cbcs'
+      - 'av1-main-L50-dash-cbcs-prk'
+      - 'av1-main-L51-dash-cbcs'
+      - 'av1-main-L51-dash-cbcs-prk'
+
+    VP9:
+      P0:
+         - 'vp9-profile0-L30-dash-cenc'
+         - 'vp9-profile0-L30-dash-cenc-prk'
+         - 'vp9-profile0-L31-dash-cenc'
+         - 'vp9-profile0-L31-dash-cenc-prk'
+         - 'vp9-profile0-L40-dash-cenc'
+         - 'vp9-profile0-L40-dash-cenc-prk'
+         - 'vp9-profile0-L41-dash-cenc'
+         - 'vp9-profile0-L41-dash-cenc-prk'
+
+      P1:
+         - 'vp9-profile1-L30-dash-cenc'
+         - 'vp9-profile1-L30-dash-cenc-prk'
+         - 'vp9-profile1-L31-dash-cenc'
+         - 'vp9-profile1-L31-dash-cenc-prk'
+         - 'vp9-profile1-L40-dash-cenc'
+         - 'vp9-profile1-L40-dash-cenc-prk'
+         - 'vp9-profile1-L41-dash-cenc'
+         - 'vp9-profile1-L41-dash-cenc-prk'
+
+      P2:
+         - 'vp9-profile2-L30-dash-cenc'
+         - 'vp9-profile2-L30-dash-cenc-prk'
+         - 'vp9-profile2-L31-dash-cenc'
+         - 'vp9-profile2-L31-dash-cenc-prk'
+         - 'vp9-profile2-L40-dash-cenc'
+         - 'vp9-profile2-L40-dash-cenc-prk'
+         - 'vp9-profile2-L41-dash-cenc'
+         - 'vp9-profile2-L41-dash-cenc-prk'
+
+      HDR10:
+         - 'vp9-hdr-profile2-L30-dash-cenc-prk'
+         - 'vp9-hdr-profile2-L31-dash-cenc-prk'
+         - 'vp9-hdr-profile2-L40-dash-cenc-prk'
+         - 'vp9-hdr-profile2-L41-dash-cenc-prk'
+         - 'vp9-hdr-profile2-L50-dash-cenc-prk'
+         - 'vp9-hdr-profile2-L51-dash-cenc-prk'
+  audio:
+    AAC:
+      - 'heaac-2-dash'
+      - 'heaac-2hq-dash'
+      - 'heaac-5.1-dash'
+
+    AC3:
+      - 'dd-5.1-dash'
+
+    EC3:
+      - 'ddplus-2.0-dash'
+      - 'ddplus-5.1-dash'
+      - 'ddplus-5.1hq-dash'
+      - 'ddplus-atmos-dash'
+
+    VORB:
+      - 'playready-oggvorbis-2-dash'
+      - 'playready-oggvorbis-5-dash'
+
+  subtitles:
+    - 'webvtt-lssdh-ios8'

@@ -1,0 +1,19 @@
+import uuid
+import base64
+import xmltodict
+
+psshPR = """
+xAEAAAEAAQC6ATwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ATAA0AGkAWQBTAHIAaQB2AGEARQAyAFQASwBHAFAAZQBlADkAYgB1AGcAZwA9AD0APAAvAEsASQBEAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=
+"""
+
+xml_str = base64.b64decode(psshPR).decode("utf-16-le", "ignore")
+xml_str = xml_str[xml_str.index("<"):]
+kids = []
+try: 
+	kids = [uuid.UUID(base64.b64decode(kid_xml['@VALUE']).hex()).bytes_le.hex().upper() for kid_xml in xmltodict.parse(xml_str)['WRMHEADER']['DATA']['CUSTOMATTRIBUTES']['KIDS']['KID']]
+except:
+	another_kid = uuid.UUID(base64.b64decode(xmltodict.parse(xml_str)['WRMHEADER']['DATA']["KID"]).hex()).bytes_le.hex().upper()
+	if another_kid not in kids:
+		kids.append(another_kid.upper())
+
+print(kids)

@@ -1,0 +1,16 @@
+needs_auth: false
+
+endpoints:
+  loginurl: 'https://api.mubi.com/v3/authentication/login'
+  authtok_url: 'https://api.mubi.com/v3/authentication/login/request' 
+  metadata:  'https://api.mubi.com/v3/films/{title_id}'
+  viewing:  'https://api.mubi.com/v3/films/{title_id}/viewing'
+  manifest: 'https://api.mubi.com/v3/films/{title_id}/viewing/secure_url'
+  license: 'https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true'
+
+device:
+  device_identifier: '421c9b8e-67b2-4d61-b1c5-02cb319a1894'
+  device_model: 'Android SDK built for x86'
+  client_name: 'android'
+  device_os: '13'
+  user_agent: 'okhttp/4.9.2'

@@ -1,0 +1,82 @@
+Como fazer um trambique bem feito
+
+Passo 1: Instalar Python e Git com os seguintes comandos dentro do Powershell ou do Prompt de Comando:
+
+winget install python
+winget install Git.Git
+
+
+Passo 2: Via linha de comando selecione o diretório que será instalado. Para isso deve-se usar o comando "cd" + o caminho para pasta. Se for necessário trocar a unidade de disco, deve-se usar "<letra da unidade>:"
+
+D:
+cd D:\Users\USUÁRIO\Pasta\de\instalação
+
+Passo 3: Clonar o conteúdo do repositório do dev que cuida do Vinetrimmer com suporte ao Playready
+
+git clone -b dev --single-branch https://github.com/chu23465/VT-PR
+
+Passo 4: Rodar o comando "install.bat" que está dentro da pasta VT-PR
+
+Passo 4.1: Se após este passo receber a resposta "poetry não é reconhecido como um comando interno", devemos fazer isso manualmente. Para isso, durante a execução do código deve aparecer a mensagem "Consider adding this directory to PATH" seguido de um caminho para a pasta, então faça isso:
+
+ 1) Copie o caminho que este alerta informa sem asptas
+ 2) Abra o menu iniciar e digite "variáveis"
+ 3) Abra o "Editar as variáveis de ambiente do sistema"
+ 4) Clique em "Variáveis de Ambiente"
+ 5) Há dois quadros, vá no quadro superior "Variáveis de usuário...", procure por "Path" e dê um clique duplo
+ 6) Clique em "Novo" e coloque o caminho que você copiou anteriormente
+ 7) Execute novamente o "install.bat"
+
+Passo 5: Rodar o script "make.ps1" clicando com o botão direito e escolhendo a opção "Executar com o Powershell"
+
+Passo 6: Se tudo deu certo, a pasta ".venv" será criada e tudo deve estar pronto para funcionar
+
+Passo 7: Vamos atualizar para obter os serviços atualizados para o Brasil:
+
+# Usando o prompt de comando, use esses comandos para navegar até a pasta "VT-PR"
+D:
+cd D:\Users\USUÁRIO\Pasta\de\instalação\VT-PR
+
+git pull https://github.com/limaalef/VT-PR
+
+Passo 8: A instalação está pronto, mas ainda é necessário concluir as configuração. Pra começar devemos pegar os cookies dos serviços de streaming. Pra isso instale a extensão "Get cookies.txt Locally", faça o login nos serviços, baixe o txt e salve na pasta "NomeDoServiço" dentro "Cookies" que ficará dentro da pasta VT-PR/vinetrimmer
+
+Passo 8.1: Para Amazon é necessário fazer o login por aqui "https://www.primevideo.com/region/na/ontv/code" e vincular a conta em uma TV para que o programa funcione corretamente
+
+Passo 9: Abra o arquivo "vinetrimmer.yaml", que está dentro de VT-PR/vinetrimmer, e insira as credenciais de cada serviço
+
+Passo 10: Depois de tudo, acho que deve ter dado tudo certo até aqui. Agora é só usar o venv.cmd e usar o programa
+
+-------------------------------------------------------------------------------------------
+Exemplos de comandos
+
+DISNEY+
+poetry run vt dl --keys -al pt DSNP -m entity-87f49368-4366-4808-bbd8-dd53daad8d37
+poetry run vt dl       <audio><serviço>         <movie><id do vídeo>
+
+MAX
+poetry run vt dl --keys -al pt Max https://play.max.com/show/de3488b1-a8ab-4f34-8230-0a465a79ae86
+poetry run vt dl      <audio><serviço><link para o vídeo>
+
+PARAMOUNT+
+poetry run vt dl --keys -al pt ParamountPlus https://www.paramountplus.com/shows/conmebol-libertadores/
+poetry run vt dl                 <serviço>   <link para o vídeo>
+
+AMAZON
+poetry run vt dl --keys -al pt AMZN 0OJ53BBJ97VMXRBEDFKSUGO37T 
+poetry run vt dl            <serviço><id para o vídeo>
+
+APPLE TV+
+poetry run vt dl --keys -al pt ATVP umc.cmc.vtoh0mn0xn7t3c643xqonfzy
+poetry run vt dl            <serviço><id para o vídeo>
+
+F1TV
+poetry run vt dl -al pt --keys F1TV 1000008999
+poetry run vt dl            <serviço><id para o vídeo>
+
+GLOBOPLAY
+poetry run vt dl --keys GLOBOPLAY https://globoplay.globo,com/v/7339279 ou 7339279
+poetry run vt dl        <serviço> <link para o vídeo>                   ou <id para o vídeo>
+
+Para escolher episodio de programas seriados: -w S19E21
+Para baixar utilizando o programa remova o comando: --keys

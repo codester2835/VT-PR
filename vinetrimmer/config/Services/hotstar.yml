@@ -1,0 +1,21 @@
+needs_auth: false
+
+endpoints:
+  login: 'https://api.hotstar.com/in/aadhar/v2/web/in/user/login'
+  refresh: 'https://www.hotstar.com/api/internal/bff/v2/start'
+  tv_title: 'https://www.hotstar.com/api/internal/bff/v2/slugs/{id}'
+  tv_episodes: 'https://www.hotstar.com/api/internal/bff/'
+  tv_title_old: 'https://api.hotstar.com/o/v1/show/detail'
+  tv_episodes_old: 'https://api.hotstar.com/o/v1/tray/g/1/detail'
+  movie_title: 'https://api.hotstar.com/o/v1/movie/detail'
+  manifest1: 'https://apix.hotstar.com/v2/pages/watch'
+  manifest2: 'https://apix.hotstar.com/v2/pages/detail'
+
+device:
+  os:
+    name: 'Windows'
+    version: 10
+
+  platform:
+    name: 'web'
+    version: '7.35.0'

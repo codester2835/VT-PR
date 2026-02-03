@@ -1,0 +1,16 @@
+endpoints:
+  refresh: 'https://apiv2.sonyliv.com/AGL/2.9/A/ENG/WEB/IN/TN/GETPROFILE?channelPartnerID=MSMIND'
+  hash: 'https://apiv2.sonyliv.com/AGL/2.0/SR/ENG/WEB/IN/TN/GETHASHVALUE'
+  title: 'https://apiv2.sonyliv.com/AGL/2.6/R/ENG/WEB/IN/MH/DETAIL-V2/{id}'
+  season: 'https://apiv2.sonyliv.com/AGL/2.6/SR/ENG/WEB/IN/MH/CONTENT/DETAIL/BUNDLE/{id}?from={ep_start}&to={ep_end}&orderBy=episodeNumber&sortOrder=asc&kids_safe=false'
+  # manifest: 'https://apiv2.sonyliv.com/AGL/3.8/SR/ENG/WEB/IN/MH/CONTENT/VIDEOURL/VOD/{id}?contactId={bid}'
+  manifest: 'https://apiv2.sonyliv.com/AGL/3.8/SR/ENG/SONY_ANDROID_TV/IN/MH/CONTENT/VIDEOURL/VOD/{id}?contactId={bid}'
+  license: 'https://apiv2.sonyliv.com/AGL/1.4/SR/ENG/WEB/IN/CONTENT/GETLAURL'
+
+device:
+  chrome:
+    device_id: '577f872ae8554c14a16ac1ef3d11c0e9-1712427232539'
+    app_version: '3.5.63'
+    platform: 'web'
+    user-agent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+    td_client: '{"os_name":"Mac OS","os_version":"10.15.7","device_make":"none","device_model":"none","display_res":"1470","viewport_res":"894","conn_type":"4g","supp_codec":"H264,AV1,AAC","client_throughput":"16000","td_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36","hdr_decoder":"UNKNOWN","audio_decoder":"STEREO"}'

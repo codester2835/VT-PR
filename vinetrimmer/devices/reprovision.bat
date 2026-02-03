@@ -1,0 +1,1 @@
+pyplayready reprovision-device hisense_smarttv_he55a7000euwts_sl3000.prd

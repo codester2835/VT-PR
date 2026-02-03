@@ -1,0 +1,13 @@
+secret_key: A3s68aORSgHs$71P
+client_secret: apalyaSonyTV
+
+UA: okhttp/2.5.0
+
+endpoints:
+  contentDetail: https://pwaapi.sunnxt.com/content/v3/contentDetail/{titleid}/?level=devicemax&fields=contents,user/currentdata,generalInfo,subtitles,globalServiceName,globalServiceId
+  playback: https://api.sunnxt.com/content/v3/media/{titleid}/
+  tv_content: https://pwaapi.sunnxt.com/content/v3/vods/GID_{_id}/?fields=contents,generalInfo,globalServiceName&startIndex={index}&count=100
+  #login
+  register_device_url: https://api.sunnxt.com/user/v7/registerDevice
+  code_url: https://api.sunnxt.com/user/v4/device/code
+  link_url: https://api.sunnxt.com/user/v4/device/validate
