@@ -15,7 +15,7 @@ The name `VineTrimmer` comes from `Vine` as in `WideVine` and `Trimmer` as in re
 I recommend temporarily using [this](https://github.com/DevLARLEY/PlayreadyProxy2).
 
 ## History
-> This priject was recently taken down.  This copy from @chu23465 is mostly original, except for some bug fixes.
+> This project was recently taken down.  This copy from @chu23465 is mostly original, except for some bug fixes.
 
 ## This project is under active development. Expect bugs and errors.
 
