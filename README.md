@@ -491,7 +491,6 @@ If anyone has any idea how to fix above issues, feel free to open a pull request
 
 
 ## Credits
-
 [@rlaphoenix](https://github.com/rlaphoenix) for [pywidevine](https://github.com/devine-dl/pywidevine)
 
 [@rlaphoenix](https://github.com/rlaphoenix) again as he was the original developer behind the `VineTrimmer` base `Widevine` version (later renamed to `devine`) .
@@ -523,4 +522,4 @@ Various members of the above mentioned Discord servers for testing, bug reportin
 The services included here were not written by me. They were either found in the mentioned Discord servers or shared by an individual. If anyone feels like they deserve a credit in the README, open an issue and I'll add you.
 
 ## Legal
-Please **do not** take this repository down.  This is a commemorative repository and ment for legal purposes only.
+I can not stress enough how important it i that you check the laws in you area as it could save you thousands (litertally)
