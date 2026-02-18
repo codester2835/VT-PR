@@ -517,7 +517,7 @@ Various members of the above mentioned Discord servers for testing, bug reportin
 
 [@methflix](https://github.com/methflix) for sharing a Hulu account for testing purposes.
 
-[@chu23465] (https://github.com/chu23465/) for assembling the initial project.
+[@chu23465](https://github.com/chu23465/) for assembling the initial project.
 
 The services included here were not written by me. They were either found in the mentioned Discord servers or shared by an individual. If anyone feels like they deserve a credit in the README, open an issue and I'll add you.
 
