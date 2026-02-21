@@ -4,7 +4,7 @@ build-backend = 'poetry.core.masonry.api'
 
 [tool.poetry]
 name = 'vinetrimmer'
-version = '0.1.0'
+version = '26.2.1'
 description = 'Widevine and Playready DRM downloader and decrypter'
 authors = []
 

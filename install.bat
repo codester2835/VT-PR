@@ -2,6 +2,7 @@
 setlocal
 
 rem Resolve the path to your local Python 3.12
+rem You may need this if you have 3.14 installed to path
 set PYTHON=%~dp0..\python 312\python.exe
 
 echo Using Python at: %PYTHON%

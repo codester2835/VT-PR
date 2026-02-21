@@ -446,7 +446,6 @@ Tested so far on Amazon, AppleTVPlus, Max, and DisneyPlus and Hulu.
 
 ## Broken / To-Do (Descending order of priority) 
 
- - [ ] Add a version.py
  - [ ] Pipe last frame of output of external dependencies like mkvmerge, N_m3u8 and decryptors to logfile
  - [ ] First stable release
  - [ ] Shaka with progress bar repository 
@@ -488,6 +487,10 @@ Tested so far on Amazon, AppleTVPlus, Max, and DisneyPlus and Hulu.
  - [ ] Manifest url caching system for every key/Track object.
 
 If anyone has any idea how to fix above issues, feel free to open a pull request.
+
+## Completed
+ - [x] Add a version.py
+Based off of original repository to-do
 
 
 ## Credits

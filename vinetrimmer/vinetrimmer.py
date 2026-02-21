@@ -10,12 +10,13 @@ import coloredlogs
 from vinetrimmer.config import directories, filenames  # isort: split
 from vinetrimmer.commands import dl
 
-
+from version import __version__
 @click.command(context_settings=dict(
     allow_extra_args=True,
     ignore_unknown_options=True,
     max_content_width=116,  # max PEP8 line-width, -4 to adjust for initial indent
 ))
+@click.version_option(__version__, "--version", "-v", message="vinetrimmer %(version)s")
 @click.option("--debug", is_flag=True, default=False,
               help="Enable DEBUG level logs on the console. This is always enabled for log files.")
 def main(debug):
