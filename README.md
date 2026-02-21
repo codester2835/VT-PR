@@ -162,6 +162,7 @@ Options:
 |  --mux                     | Force muxing when using --audio-only/--subs-only/--chapters-only.                             |  False                            |
 |  -ss, --strip-sdh          | Stip SDH subtitles and convert them to CC. Plus fix common errors.                            |  False                            |
 |  -mf, --match-forced       | Only select forced subtitles matching with specified audio language                           |  False                            |
+|  -v, --version             | Show the current version of project                                                           |  False                            |
 |  -?, -h, --help            | Show this message and exit.                                                                   |  False                            |
 
 
