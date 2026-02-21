@@ -11,24 +11,18 @@ from vinetrimmer.config import directories, filenames  # isort: split
 from vinetrimmer.commands import dl
 
 
-from version import __version__  # add this at the top
-
 @click.command(context_settings=dict(
     allow_extra_args=True,
     ignore_unknown_options=True,
-    max_content_width=116,
+    max_content_width=116,  # max PEP8 line-width, -4 to adjust for initial indent
 ))
-@click.option("--debug", is_flag=True, default=False, help="Enable DEBUG level logs on the console.\nThis is always enabled for log files.")
-@click.option("--version", is_flag=True, help="Show the current version")
-def main(debug, version):
+@click.option("--debug", is_flag=True, default=False,
+              help="Enable DEBUG level logs on the console. This is always enabled for log files.")
+def main(debug):
     """
-    vinetrimmer is the most convenient command-line program to download videos
-    from Widevine and PlayReady DRM-protected video platforms.
+    vinetrimmer is the most convenient command-line program to
+    download videos from Widevine and Playready DRM-protected video platforms.
     """
-    if version:
-        print(f"VT-PR version {__version__}")
-        return
-
     LOG_FORMAT = "{asctime} [{levelname[0]}] {name} : {message}"
     LOG_DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
     LOG_STYLE = "{"
